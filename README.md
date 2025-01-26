@@ -27,5 +27,5 @@ Follow the instructions for MySQL installation for your OS given [here](https://
 ### Adding Schema and Test Data
 - Step 1:  Clone this repository to your local machine.
 - Step 2:  Navigate to the `.script` directory.
-- Step 3:  Run the configuration script  available [here](https://github.com/arnavbajpai/Web-Forum-powered-by-AWS-Database1/script/DbConfig.sql) script to create and initialize the database schema.
+- Step 3:  Run the configuration script  available [here](https://github.com/arnavbajpai/Web-Forum-powered-by-AWS-Database1/script/DbConfig.sql) to create and initialize the database schema.
 - Step 4:  Use the test script available [here](https://github.com/arnavbajpai/Web-Forum-powered-by-AWS-Database1/Test/test-data.sql) to configure test data into database.
